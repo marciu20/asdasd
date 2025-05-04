@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "name": "SpinningCat",
+  "symbol": "SPINNY",
+  "description": "The cat that never stops spinning. Neither does your portfolio.",
+  "image": "https://raw.githubusercontent.com/marciu20/asdasd/refs/heads/main/New%20Project%20(1).png?token=GHSAT0AAAAAAC5L2BCEPJRCHI7SZKYRYJSS2AX3O2A"
 }
